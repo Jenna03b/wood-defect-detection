@@ -1,0 +1,7 @@
+ultralytics
+fastapi
+uvicorn
+streamlit
+python-multipart
+opencv-python-headless
+onnxruntime
